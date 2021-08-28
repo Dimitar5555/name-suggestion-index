@@ -5958,6 +5958,18 @@
         "brand": "福懋加油站",
         "name": "福懋加油站"
       }
+    },
+    {
+      "displayName": "InsaOil",
+      "id": "2dae50-16b3c2",
+      "locationSet": {
+        "include": ["bg"]
+      },
+      "tags": {
+        "amenity": "fuel",
+        "brand": "InsaOil",
+        "name": "InsaOil"
+      }
     }
   ]
 }
